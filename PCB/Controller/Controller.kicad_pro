@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "KeysMatrix.kicad_pro",
+    "filename": "Controller.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -576,7 +576,7 @@
   },
   "sheets": [
     [
-      "202bebe1-b525-4106-b9ac-ab175184d6aa",
+      "65037d2c-ae84-434c-ae3e-159a04aa711c",
       "Root"
     ]
   ],
